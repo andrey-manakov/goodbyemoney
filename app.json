@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "GoodbyeMoney",
-    "slug": "GoodbyeMoney",
+    "slug": "goodbyemoney",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e882e502-4b21-48ff-b4da-5f46d5f7d84d"
+      }
+    },
+    "owner": "andrey-manakov"
   }
 }
